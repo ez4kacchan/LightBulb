@@ -20,7 +20,4 @@ Its primary objective is to match the color of the screen to the light sources o
 - Minimal performance impact
 - Works without internet connection
 
-## Screenshots
 
-![dashboard](.assets/dashboard.png)
-![settings](.assets/settings.png)
