@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ys2SRufSTncQuCOndlP0fKtEk8RvzG7h1JupIkmR8rkQCh5TppEEVM5E7ViSzt+6vl6Di7loj9qPpJaAG0foQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vhung\\Documents\\howitzer\\project\\LightBulb-2.4.5\\LightBulb.WindowsApi\\LightBulb.WindowsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vhung\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

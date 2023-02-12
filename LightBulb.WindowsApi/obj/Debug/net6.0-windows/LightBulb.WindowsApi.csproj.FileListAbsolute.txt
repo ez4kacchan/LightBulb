@@ -1,0 +1,12 @@
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\bin\Debug\net6.0-windows\LightBulb.WindowsApi.deps.json
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\bin\Debug\net6.0-windows\LightBulb.WindowsApi.dll
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\bin\Debug\net6.0-windows\LightBulb.WindowsApi.pdb
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.csproj.AssemblyReference.cache
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.AssemblyInfoInputs.cache
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.AssemblyInfo.cs
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.csproj.CoreCompileInputs.cache
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.dll
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\refint\LightBulb.WindowsApi.dll
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\LightBulb.WindowsApi.pdb
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.WindowsApi\obj\Debug\net6.0-windows\ref\LightBulb.WindowsApi.dll

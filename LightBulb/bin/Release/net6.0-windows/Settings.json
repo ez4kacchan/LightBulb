@@ -1,0 +1,48 @@
+{
+  "IsFirstTimeExperienceEnabled": false,
+  "NightConfiguration": {
+    "Temperature": 3900.0,
+    "Brightness": 0.85
+  },
+  "DayConfiguration": {
+    "Temperature": 6600.0,
+    "Brightness": 1.0
+  },
+  "ConfigurationTransitionDuration": "00:40:00",
+  "ConfigurationTransitionOffset": 0.0,
+  "IsManualSunriseSunsetEnabled": true,
+  "ManualSunriseTime": "07:20:00",
+  "ManualSunsetTime": "16:30:00",
+  "Location": null,
+  "IsAutoUpdateEnabled": true,
+  "IsDefaultToDayConfigurationEnabled": false,
+  "IsConfigurationSmoothingEnabled": true,
+  "IsPauseWhenFullScreenEnabled": false,
+  "IsGammaPollingEnabled": false,
+  "IsApplicationWhitelistEnabled": false,
+  "WhitelistedApplications": null,
+  "ToggleHotKey": {
+    "Key": 0,
+    "Modifiers": 0
+  },
+  "IncreaseTemperatureOffsetHotKey": {
+    "Key": 0,
+    "Modifiers": 0
+  },
+  "DecreaseTemperatureOffsetHotKey": {
+    "Key": 0,
+    "Modifiers": 0
+  },
+  "IncreaseBrightnessOffsetHotKey": {
+    "Key": 0,
+    "Modifiers": 0
+  },
+  "DecreaseBrightnessOffsetHotKey": {
+    "Key": 0,
+    "Modifiers": 0
+  },
+  "ResetConfigurationOffsetHotKey": {
+    "Key": 0,
+    "Modifiers": 0
+  }
+}

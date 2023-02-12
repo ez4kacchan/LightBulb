@@ -1,0 +1,12 @@
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\bin\Debug\net6.0-windows\LightBulb.Core.deps.json
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\bin\Debug\net6.0-windows\LightBulb.Core.dll
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\bin\Debug\net6.0-windows\LightBulb.Core.pdb
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.csproj.AssemblyReference.cache
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.AssemblyInfoInputs.cache
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.AssemblyInfo.cs
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.csproj.CoreCompileInputs.cache
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.dll
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\refint\LightBulb.Core.dll
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\LightBulb.Core.pdb
+C:\Users\vhung\Documents\howitzer\project\LightBulb-2.4.5\LightBulb.Core\obj\Debug\net6.0-windows\ref\LightBulb.Core.dll

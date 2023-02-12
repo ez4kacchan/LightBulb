@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCWopCw5CSYk5Z/NZNwW56yQcGGWuO4lpc99Jvg2DmtQj0Dq60l8nkCLGNtYFehtgI1syqkBk2T++/rOkw5RvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vhung\\Documents\\howitzer\\project\\LightBulb-2.4.5\\LightBulb.Core\\LightBulb.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vhung\\.nuget\\packages\\jsonextensions\\1.2.0\\jsonextensions.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
